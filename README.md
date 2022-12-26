@@ -4,6 +4,6 @@
 
 ![](./WhiteBoard-Images/WhiteBoard-Reverse-LL.PNG)
 
-## Valid BST
+## Valid BST - Depth First Search
 
 ![](./WhiteBoard-Images/ValidBST.PNG)
