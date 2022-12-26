@@ -4,3 +4,6 @@
 
 ![](./WhiteBoard-Images/WhiteBoard-Reverse-LL.PNG)
 
+## Valid BST
+
+![](./WhiteBoard-Images/ValidBST.PNG)
