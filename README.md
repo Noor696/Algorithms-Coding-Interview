@@ -7,3 +7,8 @@
 ## Valid BST - Depth First Search
 
 ![](./WhiteBoard-Images/ValidBST.PNG)
+
+## Sum Root to leaf Numbers- Depth First Search - preOrder
+
+![](./WhiteBoard-Images/SumRootToLeaf.PNG)
+
